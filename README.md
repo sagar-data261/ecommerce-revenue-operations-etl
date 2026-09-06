@@ -20,4 +20,4 @@ An end-to-end data analytics pipeline built on **5,000 retail transactions** to 
 - **Database & Analysis:** MySQL, CTEs, `NTILE(5)`, Conditional Aggregation, Window Functions
 - **Business Intelligence:** Power BI, DAX, Custom Ordinal Sorting
 
-![Power BI Dashboard](Analysis/dashboard/dashboard_preview.png)
+<img width="1163" height="651" alt="dashboard_preview" src="https://github.com/user-attachments/assets/70719aeb-0088-4c3d-a34c-435154f65b17" />
