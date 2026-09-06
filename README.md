@@ -19,3 +19,5 @@ An end-to-end data analytics pipeline built on **5,000 retail transactions** to 
 - **ETL & Data Processing:** Python, Pandas, SQLAlchemy, PyMySQL
 - **Database & Analysis:** MySQL, CTEs, `NTILE(5)`, Conditional Aggregation, Window Functions
 - **Business Intelligence:** Power BI, DAX, Custom Ordinal Sorting
+
+![Power BI Dashboard](Analysis/dashboard/dashboard_preview.png)
