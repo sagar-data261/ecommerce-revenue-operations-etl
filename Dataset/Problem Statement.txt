@@ -1,0 +1,19 @@
+1. What is the total realized net revenue across all orders, and how much potential gross revenue was lost due to promotional discounts?
+
+2. Which product categories generate the highest total revenue, and how does the Average Order Value (AOV) differ across them?
+
+3. How is revenue distributed across the four geographical regions, and which region has the highest average revenue per order?
+
+4. Does offering higher discount percentages result in significantly higher order quantities, or does it primarily erode profit margins?
+
+5. Which product category receives the deepest discounts, and is there any noticeable impact on customer satisfaction ratings?
+
+6. What percentage of total orders exceed an acceptable delivery threshold of 7 days, and which region experiences the highest transit delays?
+
+7. Is there a measurable drop in customer ratings when delivery times increase from short (1–3 days) to extended (8–11 days)?
+
+8. Does the choice of payment method (Card, COD, Wallet) lead to differences in delivery duration or order fulfillment speed?
+
+9. What proportion of unique customers account for the top tier of cumulative spend, and how frequent are repeat buyers?
+
+10. How do total order volume and average ticket size compare across the different payment methods?
